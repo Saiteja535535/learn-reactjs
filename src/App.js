@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>Footer Added 2</p>
+        <p>Footer Added for me</p>
       </header>
     </div>
   );
