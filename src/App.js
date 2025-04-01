@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Footer was added successfully</p>
+        <p>Footer was added successfully in 2</p>
       </header>
     </div>
   );
