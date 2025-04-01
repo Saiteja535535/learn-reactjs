@@ -19,7 +19,6 @@ function App() {
         </a>
         <p>Footer Added 2</p>
       </header>
-      <p>Footer Added</p>
     </div>
   );
 }
